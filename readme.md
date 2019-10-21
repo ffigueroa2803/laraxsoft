@@ -1,3 +1,3 @@
-# Lara-Xsoft
+# Lara-xsoft
 
 Starter Admin for Laravel
